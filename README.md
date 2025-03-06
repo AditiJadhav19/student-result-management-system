@@ -37,7 +37,7 @@ The Student Result Management System provides the following features:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/student-result-management-system.git
+   git clone https://github.com/AditiJadhav19/student-result-management-system.git
    ```
 
 2. Navigate to the project directory:
